@@ -146,6 +146,7 @@ chronologically.
 
 #### Master programs
 
+- [Master of Science in AI and Society] https://www.tum.de/en/studies/degree-programs/detail/ai-in-society, TU Munich, DEU
 - [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
   TU Graz, AUT
 - [Master of Science program in Social Data Science](https://networkdatascience.ceu.edu/msc-social-data-science), Central European University, AUT
